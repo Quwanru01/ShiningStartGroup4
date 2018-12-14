@@ -22,11 +22,10 @@ namespace ShiningInfomation.Controllers
             {
                 if (ModelState.IsValid)
                 {
-                    var userinfo = LoginDemo.LogFunction(model);
-                    if (userinfo != null)
+                    var userinfo = LoginDemo.LoginFun(model.account, model.pwd);
+                    if (userinfo == true)
                     {
-                        RedirectToAction("Index");
-                        
+                        return RedirectToAction("Index", "Index");
                     }
                 }
 
