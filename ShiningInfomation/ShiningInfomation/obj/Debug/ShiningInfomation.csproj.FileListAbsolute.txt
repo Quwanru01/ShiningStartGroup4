@@ -109,6 +109,6 @@ D:\MVC\Quwanru01\ShiningStartGroup4\ShiningInfomation\ShiningInfomation\bin\Syst
 D:\MVC\Quwanru01\ShiningStartGroup4\ShiningInfomation\ShiningInfomation\bin\System.Web.WebPages.Razor.xml
 D:\MVC\Quwanru01\ShiningStartGroup4\ShiningInfomation\ShiningInfomation\bin\Antlr3.Runtime.pdb
 D:\MVC\Quwanru01\ShiningStartGroup4\ShiningInfomation\ShiningInfomation\bin\Newtonsoft.Json.xml
-D:\MVC\Quwanru01\ShiningStartGroup4\ShiningInfomation\ShiningInfomation\obj\Debug\ShiningInfomation.csprojResolveAssemblyReference.cache
 D:\MVC\Quwanru01\ShiningStartGroup4\ShiningInfomation\ShiningInfomation\obj\Debug\ShiningInfomation.dll
 D:\MVC\Quwanru01\ShiningStartGroup4\ShiningInfomation\ShiningInfomation\obj\Debug\ShiningInfomation.pdb
+D:\MVC\Quwanru01\ShiningStartGroup4\ShiningInfomation\ShiningInfomation\obj\Debug\ShiningInfomation.csprojResolveAssemblyReference.cache
